@@ -1,0 +1,14 @@
+c:\Users\turtl\Alarms\bin\Debug\net8.0\Alarms.exe
+c:\Users\turtl\Alarms\bin\Debug\net8.0\Alarms.deps.json
+c:\Users\turtl\Alarms\bin\Debug\net8.0\Alarms.runtimeconfig.json
+c:\Users\turtl\Alarms\bin\Debug\net8.0\Alarms.dll
+c:\Users\turtl\Alarms\bin\Debug\net8.0\Alarms.pdb
+c:\Users\turtl\Alarms\obj\Debug\net8.0\Alarms.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\turtl\Alarms\obj\Debug\net8.0\Alarms.AssemblyInfoInputs.cache
+c:\Users\turtl\Alarms\obj\Debug\net8.0\Alarms.AssemblyInfo.cs
+c:\Users\turtl\Alarms\obj\Debug\net8.0\Alarms.csproj.CoreCompileInputs.cache
+c:\Users\turtl\Alarms\obj\Debug\net8.0\Alarms.dll
+c:\Users\turtl\Alarms\obj\Debug\net8.0\refint\Alarms.dll
+c:\Users\turtl\Alarms\obj\Debug\net8.0\Alarms.pdb
+c:\Users\turtl\Alarms\obj\Debug\net8.0\Alarms.genruntimeconfig.cache
+c:\Users\turtl\Alarms\obj\Debug\net8.0\ref\Alarms.dll
