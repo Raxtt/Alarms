@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\turtl\\Alarms\\Alarms.csproj",
+      "projectUniqueName": "C:\\Users\\turtl\\Projects\\Alarms\\Alarms.csproj",
       "projectName": "Alarms",
-      "projectPath": "C:\\Users\\turtl\\Alarms\\Alarms.csproj",
+      "projectPath": "C:\\Users\\turtl\\Projects\\Alarms\\Alarms.csproj",
       "packagesPath": "C:\\Users\\turtl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\turtl\\Alarms\\obj\\",
+      "outputPath": "C:\\Users\\turtl\\Projects\\Alarms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
